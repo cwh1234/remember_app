@@ -43,6 +43,17 @@ app/src/main/java/com/remember/app/
     └── theme/               # Material 3 主题
 ```
 
+## 📥 直接下载
+
+已构建的 APK 位于 `app/build/outputs/apk` 目录下，可直接下载安装到 Android 设备使用。
+
+| APK 类型 | 路径 |
+|----------|------|
+| Debug APK | `app/build/outputs/apk/debug/` |
+| Release APK | `app/build/outputs/apk/release/` |
+
+> 安装前请确保设备已开启「允许安装未知来源应用」选项。
+
 ## 🚀 构建与运行
 
 ### 环境要求
