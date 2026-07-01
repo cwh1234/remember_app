@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">记得</string>
+    <string name="tab_reminder">提醒</string>
+    <string name="tab_add">添加</string>
+    <string name="tab_mine">我的</string>
+
+    <!-- 提醒类型 -->
+    <string name="type_birthday">生日提醒</string>
+    <string name="type_anniversary">纪念日</string>
+    <string name="type_business_trip">出差准备</string>
+    <string name="type_document_expiry">证件到期</string>
+    <string name="type_bill_payment">账单缴费</string>
+    <string name="type_custom">自定义</string>
+
+    <!-- 操作 -->
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="pause">暂停</string>
+    <string name="resume">开启</string>
+    <string name="re_enable_all">全部开启</string>
+
+    <!-- 节假日 -->
+    <string name="holiday_management">节假日管理</string>
+    <string name="add_holiday">添加节假日</string>
+    <string name="holiday_name_hint">例如：公司成立纪念日</string>
+    <string name="default_tag">默认</string>
+</resources>
